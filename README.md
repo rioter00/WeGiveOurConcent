@@ -1,7 +1,7 @@
 # WeGiveOurConcent
 repo for 'We Give Our Concent' art show
 
-[http://angle-shooter.herokuapp.com](Angle-Shooter-Game)
+[Angle-Shooter-Game](http://angle-shooter.herokuapp.com)
 
 [http://rioter00.github.io/WeGiveOurConcent/Angle-Shooter-Terms-of-Service.html](Angle-Shooter-Privacy)
 

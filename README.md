@@ -1,6 +1,8 @@
-# WeGiveOurConcept
-repo for 'We Give Our Concept' art show
+# WeGiveOurConcent
+repo for 'We Give Our Concent' art show
 
-[Angle Shooter Privacy Policy](Angle-Shooter-Privacy-Policy.html)
+[http://angle-shooter.herokuapp.com](Angle-Shooter-Game)
 
-[Angle Shooter Terms of Service](Angle-Shooter-Terms-of-Service.html)
+[http://rioter00.github.io/WeGiveOurConcent/Angle Shooter Privacy PolicyPolicy.html](Angle-Shooter-Privacy)
+
+[https://rioter00.github.io/WeGiveOurConcent/Angle-Shooter-Terms-of-Service.html](Angle-Shooter-Terms-of-Service)
